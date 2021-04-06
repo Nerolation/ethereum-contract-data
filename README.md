@@ -40,7 +40,7 @@ Available contracts:
 
 ## Example usage
 
-![image](https://ethereum-datahub.s3.eu-central-1.amazonaws.com/graphs/stablecoin_transfers_for-git.png)
+![image](https://ethereum-datahub.s3.eu-central-1.amazonaws.com/graphs/stablecoin_transfers_for-git.png?)
 
 
 <br />
