@@ -1,4 +1,4 @@
-# ethereum-contract-data
+# [ethereum-contract-data](https://toniwahrstaetter.com/data.html) (link to the data)
 For researchers the search for high-quality data can quickly become exhausting and might cost quite some time. 
 Blockchain data often requires users to run a node, understand fundamental priciples of the underlying blockchain or complex libraries and programming languages.
 
@@ -42,6 +42,12 @@ Available contracts:
 
 ![image](https://ethereum-datahub.s3.eu-central-1.amazonaws.com/graphs/stablecoin_transfers_for-git.png?)
 
+
+<br />
+
+## Next Steps
+* Scrap even more events
+* Create SQL databases for the data
 
 <br />
 
