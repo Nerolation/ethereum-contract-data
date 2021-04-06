@@ -20,9 +20,9 @@ Available contracts:
 </br>
 
 **Wrapped Tokens**
-* Wrapped Ether
-* Wrapped Bitcoin
-* Wrapped Filecoin
+* Wrapped Ether (WBTC)
+* Wrapped Bitcoin (WETH)
+* Wrapped Filecoin (WFIL)
 </br>
 
 **Defi Tokens**
@@ -31,6 +31,24 @@ Available contracts:
 * Compound Token (COMP)
 * Chainlink (LINK)
 * Synthetix (SNX)
+* Celsius (CEL)
+* Kyber (KNC)
+* Compound USDT (cUSDT)
+* Compound USDC (cUSDC)
+* Compound DAI (cDAI)
+* Compound UNI (cUNI)
+
+</br>
+
+**Others**
+* Crypto.com (CRO)
+* Huobi Token (HT)
+* Holo Token (HOLO)
+* OKB Token (OKB)
+* Zilliqa (ZIL)
+* VeChain (VEN)
+* Theta (THETA)
+
 
 ## Sample data
 
